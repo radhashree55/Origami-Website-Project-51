@@ -1,0 +1,40 @@
+.title{
+    display: flex;
+    justify-content: center;
+    background-color: #ffdab9;
+    padding: 15px;
+    font-size: 20px;
+    font-family: papyrus;
+    font-weight: 400;
+    color: #000000;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    background-color: #ffc0cb;
+    padding: 10px;
+    font-size: 20px;
+    font-family: papyrus;
+    font-weight: 400;
+    color: #d2691e;
+    text-align: center;
+}
+.designs{
+    display: flex;
+    background-color: #ffdab9;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 60px;
+    font-size: 20px;
+    font-family: papyrus;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+.sub img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+body{
+    margin: 0px;
+}
